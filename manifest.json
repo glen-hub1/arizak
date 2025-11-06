@@ -1,0 +1,23 @@
+{
+  "name": "ARIZAK PORTFOLIO",
+  "short_name": "ARIZAK",
+  "description": "ARIZAK TECH Portfolio - WhatsApp Bot Developer & Automation Expert",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#00a884",
+  "icons": [
+    {
+      "src": "https://files.catbox.moe/f3b7y7.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://files.catbox.moe/f3b7y7.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
